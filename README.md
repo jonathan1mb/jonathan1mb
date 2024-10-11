@@ -6,6 +6,6 @@
   - Estou me desenvolvendo na linguagem javascript
   - utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-    ### vocẽ entrar em contato comigo 📧
+    ### Entre em contato comigo 📧
 
 -jonathan.hormam@escola.pr.gov.br
